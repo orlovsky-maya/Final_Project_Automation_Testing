@@ -1,12 +1,37 @@
-# Final task for building test project
-## Synopsys
-Stepik course Software Testing: Automation and Programming.Python.Selenium
+# Final Project Automation Testing
 
-The repository contains final task for building test project from Programming.Python course on Stepik educational platform.
+The repository contains the solution of the final test task.
 
-[The link on course](https://stepik.org/course/120491/info)
+[Task](https://stepik.org/lesson/761692/step/1?unit=763815)
 
-[The link on task](https://stepik.org/lesson/761692/step/1?unit=763815)
+"Automation Testing" course on Stepik educational platform.
+
+[Course](https://stepik.org/course/120491/info)
+
+## Website under test:
+
+[Website](https://орешкофф.рф/)
+
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/orlovsky-maya/Final_Project_Automation_Testing/main/Images/Website_1.png" alt="Website_1" height="400" width="800">
+
+</p>
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/orlovsky-maya/Final_Project_Automation_Testing/main/Images/Website_2.png" alt="Website_2" height="400" width="800">
+
+</p>
+
+
+## Results of run:
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/orlovsky-maya/Final_Project_Automation_Testing/main/Images/Running_Tests.png" 
+alt="Running_Tests" height="400" width="950">
+
+</p>
+
 
 
 Примечание:
